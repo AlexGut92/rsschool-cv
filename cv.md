@@ -40,3 +40,6 @@ function multiply(a, b){
 ##### Higher education  
 |2018-2021|Brest State Technical University|  
 |:-|:-|  
+
+#### English
+- Elementary (A2)
