@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+:root {
+    --primary_color: rgb(182, 141, 7);
+    --secondary_color: #f0f0f0;
+    --primary_textcolor: #000000;
+    --secondary_textcolor: #000000;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: var(--secondary_textcolor);
+}
+
+.body {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    row-gap: 15px;
+    column-gap: 15px;
+    max-height: 1024px;
+    background: var(--secondary_color);
+    font-family: 'Open Sans', sans-serif;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-basis:220px;height: 1024px
+}
+
+.header,
+.nav,
+.main,
+.footer {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    border-radius: 5px;
+    background: var(--primary_color);
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    align-self: flex-start;
+    column-gap: 100px;
+    height: 150px;
+    background: var(--primary_color);
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-self: first baseline;
+    order: -1;
+    height: 300px;
+    width: 100%;
+    background: var(--primary_color);
+    color: var(--secondary_textcolor);
+    border-radius: 5px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.heading {
+    color: red;
+    text-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-self: first baseline;
+    height: 1024vh;
+    background: var(--secondary_color);
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.footer {
+    height: 150vh;
+    background: var(--primary_color);
+}
