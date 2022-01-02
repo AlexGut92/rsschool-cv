@@ -31,4 +31,12 @@ function multiply(a, b){
 #### Experience  
 
 |2019-2021|Work on a CNC machine.|  
+|:-|:-|  
+#### Education  
+##### Online learning  
+|2021-2022|Rolling-Scopes-School|  
 |:-|:-|
+
+##### Higher education  
+|2018-2021|Brest State Technical University|  
+|:-|:-|  
