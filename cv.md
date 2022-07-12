@@ -41,8 +41,9 @@ function multiply(a, b){
 Completed the Software Testing course at Melarossa IT School in 2022.
 
 ##### Higher education  
-|2018-2021|Brest State Technical University|  
+|2018-2021|Brest State Technical University|
 |:-|:-|  
+|2021-2023|BELARUSIAN-RUSSIAN UNIVERSITY| 
 
 #### English
 - Elementary (A1)
