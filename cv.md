@@ -16,10 +16,10 @@
 #### Summary  
 I am a specialist in working with CNC machines in the woodworking industry.
 
-The main goal is to start a career as a Middle Front-End developer. I want to learn JavaScript
-CSS HTML and apply for a job at Frontend next year.  
+The main goal is to start a career as a Middle Front-End developer. I want to learn JavaScript,
+CSS, HTML and apply for a job at Frontend next year.  
 #### Skills  
-- HTML, CSS(Basic well,Visual Studio Code)  
+- HTML, CSS,Visual Studio Code(Basic well)  
 - JavaScript(Basic well)  
 #### Example of My Code 
 ##### Codewars (JavaScript):  
@@ -36,6 +36,9 @@ function multiply(a, b){
 ##### Online learning  
 |2021-2022|Rolling-Scopes-School|  
 |:-|:-|
+
+#### Courses
+Completed the Software Testing course at Melarossa IT School in 2022.
 
 ##### Higher education  
 |2018-2021|Brest State Technical University|  
