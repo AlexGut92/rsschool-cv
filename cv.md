@@ -30,7 +30,7 @@ function multiply(a, b){
 
 #### Experience  
 
-|2019-2021|Work on a CNC machine.|  
+|2019-2022|Work on a CNC machine.|  
 |:-|:-|  
 #### Education  
 ##### Online learning  
