@@ -42,4 +42,4 @@ function multiply(a, b){
 |:-|:-|  
 
 #### English
-- Elementary (A2)
+- Elementary (A1)
